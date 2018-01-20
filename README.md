@@ -1,3 +1,3 @@
 # Git-Test
 
-Understanding the working of Git and Github.
+*Understanding* the working of Git and Github.
