@@ -1,4 +1,3 @@
-# git.test
-Understanding working of git
+# Git-Test
 
-this text is update 1
+Understanding the working of Git and Github.
